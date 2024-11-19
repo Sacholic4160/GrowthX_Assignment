@@ -1,5 +1,5 @@
 const express = require('express');
-const userRoutes = require('./routers/user.route.js');
+const userRoutes = require('./routes/user.route.js');
 
 const dotenv = require('dotenv');
 const morgan = require('morgan');
